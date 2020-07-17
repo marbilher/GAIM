@@ -1,6 +1,6 @@
 # Generative AI MUD
 
-A procedurally generated M.U.D with events/locations generated from OpenAI's GPT-2 running on free services. Check it out [here](https://www.sommerval.com/mud).
+A procedurally generated M.U.D with events/locations generated from OpenAI's GPT-2 running on free services. Check it out [here](https://www.sommerval.com/gaim).
 
 -----------
 ## Table of Contents
