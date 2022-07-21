@@ -71,7 +71,7 @@ Automated generation of the world is handled via cronjob on an express server. C
 
 ## Authors
 
-* **Marlon Bilbao Hernandez** - *Initial work* - [GAIM](https://www.sommerval.com/mud)
+* **Marlon Bilbao Hernandez** - *Initial work* - [GAIM](https://www.sommerval.com/gaim)
 
 ## Acknowledgments
 
